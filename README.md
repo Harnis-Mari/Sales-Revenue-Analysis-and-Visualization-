@@ -3,7 +3,7 @@
 ## Introduction
 The project present a comprehensive analysis of sales and revenue data of an organization. Through the use of a dynamic and interactive dashboard to uncover patterns, trend, performance, and provide insights to support data-driven decisions and opportunities for growth within the organization. 
 ## Problem Statement
-Through the dataset, we aim to answer to critical business  questions such as;
+Through the dataset, we aim to answer critical business questions such as;
 1. Revenue generated, Total cost, profit, and profit margins.
 2. Revenue trend by period.
 3. The top 5 performing clients.

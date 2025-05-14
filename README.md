@@ -1,5 +1,5 @@
 # Sales and Revenue Analysis and Visualization Dashboard
-![]()
+![](S.PNG)
 ## Introduction
 The project present a comprehensive analysis of sales and revenue data of an organization. Through the use of a dynamic and interactive dashboard to uncover patterns, trend, performance, and provide insights to support data-driven decisions and opportunities for growth within the organization. 
 ## Problem Statement
@@ -18,12 +18,12 @@ The overall goal is to provide strategic action and recommendation to optimize r
 - Report Writing & Presentation: Summarizing findings, explaining insights and providing recommendations in a structured professional format.
 The skills and expertise ensured a thorough and insightful analysis to the revenue performance of the organization. 
 ## Data Modelling 
-| Data in Excel.  | Data in PowerBI|
-|-----------------|----------------|
-|![](excelview.PNG|![](powerbiview.PNG|
-|Dashboard.       |
-|-----------------|
-|![](Dataset2.PNG)|
+| Data in Excel| Data in Power|
+|--------------|--------------|
+|![](Eview.PNG)|![](Pview.PNG)|
+|Dashboard|
+|---------|
+|![](Dash.PNG)|
 ## Analysis & Insights: Key revenue insight
 - Financial Overview: Revenue: ₦129K | Cost: ₦102K | Profit: ₦27K. Showing a 20.9% profit margin.
 - Top-Performing Clients: Citigroup is the highest revenue generating client.

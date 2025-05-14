@@ -18,11 +18,14 @@ The overall goal is to provide strategic action and recommendation to optimize r
 - Report Writing & Presentation: Summarizing findings, explaining insights and providing recommendations in a structured professional format.
 The skills and expertise ensured a thorough and insightful analysis to the revenue performance of the organization. 
 ## Data Modelling 
-| Data in Excel| Data in Power|
-|![](Eview.PNG)|![](Pview.PNG)|
+| Data in Excel | Data in Power |
+|---------------|---------------|
+| ![](Eview.PNG)| ![](Pview.PNG)|
 
-|Dashboard.   |
-|![](Dash.PNG)|
+| Dashboard |
+|-----------|
+| ![](Dash.PNG)|
+
 ## Analysis & Insights: Key revenue insight
 - Financial Overview: Revenue: ₦129K | Cost: ₦102K | Profit: ₦27K. Showing a 20.9% profit margin.
 - Top-Performing Clients: Citigroup is the highest revenue generating client.

@@ -33,7 +33,7 @@ The skills and expertise ensured a thorough and insightful analysis to the reven
 - Payment Method Analysis: Transfer method dominated the revenue, yielding the heights profit (13.5K) accounting for half the total profit. Citigroup & Costco drove 100% of transfer-based revenue.
 - Monthly Peak: May recorded the highest revenue (₦11K). Although, May 31st has the highest revenue while May 30th has the lowest revenue, this pattern indicate a possible end-of-month spike in revenue which require further analysis to determine if there is a pattern that could indicate business pattern, payment delay or bilk purchases.
 - Data Gap: Netflix contributed ₦3.71K, but payment method was unclassified (potential tracking issue).
-### Strategic Note: Client & payment trends suggest transfer-based clients (Citigroup/Costco) are key profit drivers. 
+##### _Strategic Note: Client & payment trends suggest transfer-based clients (Citigroup/Costco) are key profit drivers._
 ## Recommendations & Conclusion
 Key Takeaways:
 - Revenue Optimization: Focus on high-value clients (Citigroup, Dell, Bank of America) and replicate their success strategies.

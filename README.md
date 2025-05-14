@@ -1,5 +1,5 @@
 # Sales and Revenue Analysis and Visualization Dashboard
-![](Sales.PNG)
+![]()
 ## Introduction
 The project present a comprehensive analysis of sales and revenue data of an organization. Through the use of a dynamic and interactive dashboard to uncover patterns, trend, performance, and provide insights to support data-driven decisions and opportunities for growth within the organization. 
 ## Problem Statement
